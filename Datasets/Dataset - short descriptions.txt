@@ -1,0 +1,47 @@
+MATH 4230 - Final Project
+
+Dataset options
+
+
+Gaming vs Academic Performance
+  - Exploring gaming impact on student grades, sleep, and study habits.
+
+url: https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance
+
+
+About Dataset
+🎮 Gaming vs Academic Performance Dataset
+This dataset explores how gaming habits influence student academic performance.
+
+Unlike simple datasets, this one models realistic behavior patterns:
+
+Moderate gaming can slightly improve cognitive performance
+Excessive gaming negatively impacts grades
+Study hours, sleep, and attendance strongly influence outcomes
+Random noise simulates real-world variability
+Features Included:
+Gaming hours, study hours, sleep hours
+Reaction time (cognitive performance)
+Stress levels
+Attendance and device usage
+Academic grades (target variable)
+Use Cases:
+Predict student performance (regression models)
+Behavioral data analysis
+Data visualization (EDA)
+Machine learning projects
+
+
+-----
+
+Student Lifestyle, Mental Health & Burnout Insight
+  - A comprehensive dataset analyzing student stress, lifestyle, and burnout pattern
+
+https://www.kaggle.com/datasets/ayeshasiddiqa123/student-health
+
+
+Context:
+This dataset collects a variety of academic, psychological, and lifestyle-related parameters in order to analyze student mental health and burnout. It is intended to represent the difficulties students encounter in contemporary learning settings, where personal expectations, internet exposure, and academic pressure all have a substantial negative influence on wellbeing. The dataset offers a thorough understanding of the relationships between academic achievement and mental health outcomes and factors like stress, anxiety, depression, sleep patterns, financial stress, and social support. It is large-scale and appropriate for realistic analysis, modeling, and research in education, psychology, and data science, with one million records.
+
+Content:
+Twenty columns make up the dataset, which includes demographic data (age, gender, and academic year), academic behavior (study hours, performance, exam pressure), mental health indicators (stress level, anxiety score, depression score, burnout score, mental health index), and lifestyle factors (sleep hours, physical activity, screen time, internet usage, social support). It also include outside forces like familial expectations and financial strain. The dataset is quite useful for predictive research because it offers outcome factors like dropout risk and risk level (low/high). Because each row represents a single student, it is possible to thoroughly examine trends, correlations, and potential risk factors that could have an impact on students' wellbeing.
