@@ -1,0 +1,15 @@
+Variable 1,Variable 2,Correlation r
+mental_health_index,stress_level,-0.949
+internet_usage,screen_time,0.892
+anxiety_score,mental_health_index,-0.869
+burnout_score,mental_health_index,-0.797
+exam_pressure,study_hours_per_day,0.765
+anxiety_score,stress_level,0.762
+depression_score,mental_health_index,-0.762
+burnout_score,stress_level,0.753
+burnout_score,dropout_risk,0.691
+anxiety_score,burnout_score,0.669
+depression_score,dropout_risk,0.655
+burnout_score,depression_score,0.642
+dropout_risk,mental_health_index,-0.627
+depression_score,stress_level,0.621

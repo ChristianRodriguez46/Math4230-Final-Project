@@ -1,0 +1,19 @@
+Variable,Outliers,% of column
+dropout_risk,472,0.236
+depression_score,320,0.160
+burnout_score,305,0.152
+academic_performance,115,0.058
+mental_health_index,78,0.039
+study_hours_per_day,56,0.028
+internet_usage,50,0.025
+anxiety_score,48,0.024
+screen_time,46,0.023
+academic_year,0,0.000
+financial_stress,0,0.000
+family_expectation,0,0.000
+exam_pressure,0,0.000
+age,0,0.000
+physical_activity,0,0.000
+sleep_hours,0,0.000
+social_support,0,0.000
+stress_level,0,0.000
