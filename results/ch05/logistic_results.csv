@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.8665
+Precision (macro avg),0.7664
+Recall (macro avg),0.6283
+F1 Score (macro avg),0.6723
+AUC-ROC (macro OVR),0.9458
+McFadden R-squared (High vs rest),0.5526
+CV Accuracy mean,0.8682
+CV Accuracy std,0.0030

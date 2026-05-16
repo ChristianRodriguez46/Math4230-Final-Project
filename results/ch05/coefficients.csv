@@ -1,0 +1,20 @@
+Feature,Coefficient,Odds Ratio
+stress_level,1.5648,4.7818
+anxiety_score,0.7809,2.1835
+sleep_hours,-0.7779,0.4594
+social_support,-0.7142,0.4896
+exam_pressure,0.5655,1.7604
+depression_score,0.429,1.5357
+academic_year_3,-0.0566,0.9449
+internet_usage,0.0485,1.0497
+screen_time,-0.0418,0.9591
+family_expectation,-0.0399,0.9609
+financial_stress,-0.0316,0.9689
+gender_Male,-0.0289,0.9715
+academic_year_4,-0.028,0.9724
+physical_activity,-0.027,0.9733
+academic_year_2,-0.0259,0.9745
+age,0.0179,1.0181
+academic_performance,0.0147,1.0148
+gender_Other,-0.0053,0.9948
+study_hours_per_day,0.005,1.005
