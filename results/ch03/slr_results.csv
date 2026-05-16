@@ -1,0 +1,10 @@
+Metric,Value
+Intercept (b0),4.5163
+Slope (b1),-0.4202
+95% CI for Slope,"[-0.4257, -0.4147]"
+p-value (slope = 0),0.0000e+00
+Train R-squared,0.1383
+Test R-squared,0.1362
+Train RMSE,1.5439
+Test RMSE,1.5455
+CV R-squared (mean +/- std),0.1382 +/- 0.0067
