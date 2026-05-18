@@ -1,0 +1,4 @@
+Method,Predictors Selected,BIC at Selection,Test MSE,Test RMSE,Formula
+Forward Stepwise,10,367762.719,0.81063,0.90035,burnout ~ stress_level + social_support + sleep_hours + anxiety_score + depression_score + exam_pressure + screen_time + internet_usage + family_expectation + study_hours_per_day
+Best Subset (greedy),6,367762.719,0.81065,0.90036,burnout ~ stress_level + social_support + sleep_hours + anxiety_score + depression_score + exam_pressure
+Backward Stepwise,6,367762.719,0.81065,0.90036,burnout ~ exam_pressure + stress_level + anxiety_score + depression_score + sleep_hours + social_support

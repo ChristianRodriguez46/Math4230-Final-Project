@@ -1,0 +1,4 @@
+Method,Kernel,Best C,Best Gamma,Accuracy,High-risk F1,AUC-ROC
+Logistic Regression,N/A,N/A,N/A,0.9873,0.4258,0.9827
+Linear SVM,linear,0.01,N/A,0.9853,0.0639,0.9818
+RBF SVM,rbf,0.1,0.01,0.9849,0.0,0.9748

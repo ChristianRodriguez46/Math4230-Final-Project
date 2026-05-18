@@ -1,0 +1,4 @@
+Method,Best Alpha,Num Features,Train R-squared,Test R-squared,Test RMSE,CV R-squared
+MLR (baseline),N/A,19,0.70748,0.70685,0.90036,N/A
+Ridge,45.34879,19,0.70748,0.70686,0.90036,0.70732
+Lasso,0.00191,10,0.70745,0.70688,0.90033,0.70734

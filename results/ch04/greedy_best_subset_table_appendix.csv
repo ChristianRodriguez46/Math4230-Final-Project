@@ -1,0 +1,12 @@
+Num Predictors,Variables,BIC,AIC,Mallows Cp
+1,['stress_level'],422229.404,422209.705,66673.93
+2,"['stress_level', 'social_support']",404122.307,404092.758,41586.775
+3,"['stress_level', 'social_support', 'sleep_hours']",391609.675,391570.277,26049.704
+4,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score']",382525.062,382475.815,15606.085
+5,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score']",375166.876,375107.78,7628.788
+6,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score', 'exam_pressure']",367762.719,367693.773,14.701
+7,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score', 'exam_pressure', 'screen_time']",367770.052,367691.257,12.185
+8,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score', 'exam_pressure', 'screen_time', 'internet_usage']",367775.944,367687.3,8.228
+9,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score', 'exam_pressure', 'screen_time', 'internet_usage', 'family_expectation']",367783.374,367684.88,5.809
+10,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score', 'exam_pressure', 'screen_time', 'internet_usage', 'family_expectation', 'study_hours_per_day']",367791.555,367683.212,4.14
+11,"['stress_level', 'social_support', 'sleep_hours', 'anxiety_score', 'depression_score', 'exam_pressure', 'screen_time', 'internet_usage', 'family_expectation', 'study_hours_per_day', 'gender_Male']",367801.486,367683.293,4.222

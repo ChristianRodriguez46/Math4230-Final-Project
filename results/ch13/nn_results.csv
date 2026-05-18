@@ -1,0 +1,4 @@
+Architecture,Hidden Layers,Parameters,Iterations,Train RMSE,Val RMSE,Test RMSE,Test R-squared
+A,"(64,)",1345,26,0.8412,0.8478,0.8449,0.7419
+B,"(128, 64)",10881,17,0.8402,0.8494,0.8468,0.7407
+C,"(256, 128, 64)",46337,14,0.8384,0.8495,0.8464,0.7409

@@ -1,0 +1,4 @@
+Architecture,Hidden Layers,Description,Trainable Parameters
+A,"(64,)",One hidden layer with 64 neurons,1345
+B,"(128, 64)",Two hidden layers with 128 then 64 neurons,10881
+C,"(256, 128, 64)","Three hidden layers with 256, 128, then 64 neurons",46337

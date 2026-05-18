@@ -1,0 +1,9 @@
+PC,Top 3 Features by Absolute Loading,Proposed Label,Individual Explained Variance,Cumulative Explained Variance
+PC1,stress_level (+0.513); anxiety_score (+0.451); depression_score (+0.405),Psychological distress,0.1663,0.1663
+PC2,screen_time (+0.707); internet_usage (+0.707); academic_year_3 (+0.015),Screen and internet use,0.0996,0.2659
+PC3,study_hours_per_day (+0.571); exam_pressure (+0.463); academic_performance (+0.402),Academic pressure and performance,0.0861,0.352
+PC4,academic_year_4 (+0.815); academic_year_2 (-0.415); academic_year_3 (-0.403),Academic year contrast,0.0703,0.4223
+PC5,academic_year_3 (+0.710); academic_year_2 (-0.702); gender_Other (+0.027),Academic year contrast,0.0701,0.4924
+PC6,gender_Male (+0.701); gender_Other (-0.701); social_support (+0.098),Gender indicator contrast,0.063,0.5554
+PC7,social_support (+0.861); depression_score (-0.380); anxiety_score (+0.177),Psychological distress,0.0612,0.6166
+PC8,physical_activity (+0.679); sleep_hours (-0.552); family_expectation (+0.352),Lifestyle and support,0.0529,0.6695

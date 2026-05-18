@@ -1,0 +1,13 @@
+CV Comparison
+Method,k,Metric,CV Mean,CV Std
+LinearRegression (MLR),3,R-squared,0.7073,0.0027
+LinearRegression (MLR),5,R-squared,0.7073,0.0037
+LinearRegression (MLR),10,R-squared,0.7073,0.0044
+LinearRegression (MLR),20,R-squared,0.7073,0.0047
+SLR (sleep_hours only),10,R-squared,0.1383,0.0042
+MLR (all 19 features),10,R-squared,0.7073,0.0044
+Logistic Regression,10,AUC-ROC,0.9455,0.0012
+
+Bootstrap Summary
+Estimate,Original (Ch 4),Bootstrap Mean,Bootstrap Std,95% CI Lower,95% CI Upper,Analytical Lower,Analytical Upper
+exam_pressure coefficient,0.231,0.2309,0.0042,0.2227,0.2395,0.222,0.239

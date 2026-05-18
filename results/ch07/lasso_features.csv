@@ -1,0 +1,20 @@
+Feature,Coefficient,Status
+stress_level,0.57841,Retained
+anxiety_score,0.37508,Retained
+sleep_hours,-0.33722,Retained
+depression_score,0.30991,Retained
+social_support,-0.26537,Retained
+exam_pressure,0.2316,Retained
+study_hours_per_day,0.00617,Retained
+screen_time,-0.0032,Retained
+family_expectation,-0.00295,Retained
+gender_Male,-0.00143,Retained
+age,-0.0,Zeroed out
+physical_activity,0.0,Zeroed out
+academic_performance,0.0,Zeroed out
+financial_stress,-0.0,Zeroed out
+internet_usage,0.0,Zeroed out
+gender_Other,-0.0,Zeroed out
+academic_year_2,0.0,Zeroed out
+academic_year_3,-0.0,Zeroed out
+academic_year_4,-0.0,Zeroed out

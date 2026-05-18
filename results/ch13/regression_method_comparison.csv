@@ -1,0 +1,12 @@
+Method,Test RMSE,Source
+Ch 3 SLR,1.5455,../results/ch03/slr_results.csv
+Ch 4 MLR,0.9,../results/ch04/mlr_results.csv
+Ch 7 Ridge,0.90033,../results/ch07/regularization_results.csv
+Ch 7 Lasso,0.90033,../results/ch07/regularization_results.csv
+Ch 8 Regression Tree,0.919,../results/ch08/trees_results.csv
+Ch 9 Bagging,0.8610975100132441,../results/ch09/ensembles_results.csv
+Ch 9 Random Forest,0.8558907175984825,../results/ch09/ensembles_results.csv
+Ch 9 Gradient Boosting,0.8484058143915972,../results/ch09/ensembles_results.csv
+Ch 13 NN-A,0.8448575677912572,this chapter
+Ch 13 NN-B,0.846835252191131,this chapter
+Ch 13 NN-C,0.8464143327355406,this chapter

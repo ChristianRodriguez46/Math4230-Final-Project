@@ -1,0 +1,15 @@
+Step,Variable Removed,Num Predictors,BIC,AIC
+0,None (full model),19,367894.059,367697.071
+1,academic_year_2,18,367882.213,367695.074
+2,gender_Other,17,367870.415,367693.126
+3,academic_performance,16,367858.632,367691.192
+4,age,15,367846.856,367689.266
+5,academic_year_3,14,367835.173,367687.432
+6,academic_year_4,13,367823.432,367685.54
+7,financial_stress,12,367812.429,367684.387
+8,physical_activity,11,367801.486,367683.293
+9,gender_Male,10,367791.555,367683.212
+10,study_hours_per_day,9,367783.374,367684.88
+11,family_expectation,8,367775.944,367687.3
+12,internet_usage,7,367770.052,367691.257
+13,screen_time,6,367762.719,367693.773

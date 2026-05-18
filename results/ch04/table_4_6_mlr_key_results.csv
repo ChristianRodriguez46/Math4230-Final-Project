@@ -1,0 +1,9 @@
+Metric,Value
+Train R-squared,0.707
+Test R-squared,0.707
+Train RMSE,0.900
+Test RMSE,0.900
+Adjusted R-squared,0.707
+F-statistic,17818.076
+CV R-squared (mean +/- std),0.707 +/- 0.003
+Top 5 Predictors by |Coefficient|,"stress_level (0.583), anxiety_score (0.376), sleep_hours (-0.338), depression_score (0.310), social_support (-0.267)"

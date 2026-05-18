@@ -1,0 +1,6 @@
+Model,Best Params,Test RMSE,Test R-squared,OOB Score,Accuracy,AUC
+Bagging Regressor,n_estimators=100,0.8610975100132441,0.7318651955041715,0.7253710840922183,,
+Random Forest Regressor,"n_estimators=200, max_features=0.5",0.8558907175984825,0.7350980495968276,0.7321815350445213,,
+Random Forest Classifier,"n_estimators=200, max_features=log2",,,0.9862642857142857,0.986475,0.9742448674127312
+Gradient Boosting Regressor,"n_estimators=200, learning_rate=0.1, max_depth=3",0.8484058143915972,0.7397110115431593,,,
+Gradient Boosting Classifier,"n_estimators=200, learning_rate=0.1, max_depth=3",,,,0.986825,0.9795935333780287

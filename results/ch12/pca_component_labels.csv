@@ -1,0 +1,6 @@
+PC,Top Loading Features,Proposed Label,Explained Variance
+PC1,stress_level (+0.513); anxiety_score (+0.451); depression_score (+0.405); exam_pressure (+0.359); study_hours_per_day (+0.328),Psychological distress,0.1663
+PC2,screen_time (+0.707); internet_usage (+0.707); academic_year_3 (+0.015); academic_year_2 (-0.014); gender_Other (-0.009),Academic year contrast,0.0996
+PC3,study_hours_per_day (+0.571); exam_pressure (+0.463); academic_performance (+0.402); financial_stress (-0.311); family_expectation (-0.219),Psychological distress,0.0861
+PC4,academic_year_4 (+0.815); academic_year_2 (-0.415); academic_year_3 (-0.403); gender_Other (+0.034); gender_Male (-0.030),Academic year contrast,0.0703
+PC5,academic_year_3 (+0.710); academic_year_2 (-0.702); gender_Other (+0.027); age (+0.023); social_support (-0.018),Academic year contrast,0.0701
